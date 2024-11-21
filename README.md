@@ -6,7 +6,7 @@ Hi, I'm Musaddiq, a Computer Science graduate student with a strong background i
 ## Skills and Technologies
 - **Programming Languages:** Python, SQL, Java, C++
 - **Tools and Technologies:** PowerBI, Postman, Git, Eclipse, Spring boot
-- **Cybersecurity:** Network Security, Ethical Hacking, Threat Analysis
+- **Cybersecurity:** Network Security, Threat Analysis
 
 ## Contact Information
 - **Email:** musaddiqahmedmohammed7@gmail.com
