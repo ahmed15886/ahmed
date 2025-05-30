@@ -10,4 +10,4 @@ Hi, I'm Musaddiq, a Computer Science graduate student with a strong background i
 
 ## Contact Information
 - **Email:** musaddiqahmedmohammed7@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/mohdmusaddiqahmed/)
+- **LinkedIn:** https://www.linkedin.com/in/mohdmusaddiqahmed/
